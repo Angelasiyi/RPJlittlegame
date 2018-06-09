@@ -1,0 +1,29 @@
+wall4 10 10
+wall1 3 3
+wall2 6 6
+wall3 8 8
+wall1 2 19
+wall2 9 16
+wall3 8 10
+wall1 3 18
+wall2 16 8
+wall3 20 7
+wall1 7 13
+wall2 15 5
+wall3 12 16
+wall4 5 5
+wall1 7 3
+wall2 6 13
+wall3 8 8
+wall1 2 10
+wall4 9 9
+wall3 8 2
+wall1 17 1
+wall4 16 5
+wall3 19 4
+wall1 4 12
+wall2 8 15
+wall3 1 14
+wall4 1 4
+
+

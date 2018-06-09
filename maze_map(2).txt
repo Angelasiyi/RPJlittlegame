@@ -1,0 +1,8 @@
+spider 9 9
+skull1 0 0
+skull2 0 6
+skull2 14 19
+skull1 0 10
+skull2 4 5
+skull2 11 12
+skull2 19 15
